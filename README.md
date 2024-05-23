@@ -12,7 +12,7 @@ Don't forget to add your own API_KEY as it is a secret key. Do not share your ke
 
 References: 
 
-https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/  - AI
+https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/  - What is AI?
 
 https://www.youtube.com/watch?v=ZXiruGOCn9s  - Transformers
 
