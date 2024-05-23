@@ -18,3 +18,9 @@ https://www.youtube.com/watch?v=ZXiruGOCn9s  - Transformers
 
 
 https://www.udemy.com/course/generative-ai-for-beginners-b/learn/lecture/40913732#overview  - Gen AI Course on Udemy
+
+https://www.langchain.com/
+
+https://streamlit.io/
+
+https://openai.com/index/openai-api/
