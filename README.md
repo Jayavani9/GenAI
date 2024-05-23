@@ -1,9 +1,13 @@
 # GenAI
 
 In Chatbot folder:
-I have created my own chatbot using Streamlit, Langchain, OPENAI API
+
+Created a chatbot using Streamlit, Langchain, OPENAI API
+
 Tested against a PDF. Results can be seen in the Output images shared.
+
 You can upload your own PDF and make customizations.
+
 Don't forget to add your own API_KEY as it is a secret key. Do not share your key elsewhere :) 
 
 References: 
