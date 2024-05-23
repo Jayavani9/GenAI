@@ -4,7 +4,7 @@ In Chatbot folder:
 
 Created a chatbot using Streamlit, Langchain, OPENAI API
 
-Tested against a PDF. Results can be seen in the Output images shared.
+Tested against PDFs. Results can be seen in the Output images shared.
 
 You can upload your own PDF and make customizations.
 
